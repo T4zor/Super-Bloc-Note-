@@ -1,0 +1,18 @@
+.venv/
+dist/
+build/
+Output/
+__pycache__/
+*.pyc
+*.pyo
+*.log
+# runtime/config data (non versionnées)
+notes.txt
+notes.html
+font.json
+color.json
+theme.json
+layout.json
+custom_style.json
+opacity.json
+autostart.json
