@@ -49,6 +49,9 @@ Output: `dist/BlocNoteEpinglé`
 ```
 - Installer is produced in `Output/`.
 
+## Download
+- Latest release (installer & portable): https://github.com/T4zor/Super-Bloc-Note-/releases/latest
+
 ## Data and resources
 - User data (notes, configs) lives in the user AppData directory and is ignored by git via `.gitignore`.
 - Bundled resources: `icon.ico`, `app image/`, `nav/`, `fonts/`.
